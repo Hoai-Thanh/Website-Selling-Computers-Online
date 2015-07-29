@@ -1,0 +1,45 @@
+body table {
+	border-collapse:collapse;
+	font-family:tahoma;
+	font-size:12px;	
+}
+#frm1 #top {
+	background-color:#06F;
+	background-repeat: no-repeat;
+	height: 30px;
+	width: 100%;
+}
+#thuoctinh td {
+	background-color: #CCC;
+	text-align: center;
+}
+#id {
+	text-decoration: none;
+	text-align: center;
+}
+#data {
+	width:40px;
+}
+
+#frm1 #top #txt_top {
+	padding:5px;
+	color: #FFF;
+}
+#frm1 table tr td #left {
+	float: left;
+	width: 15%;
+	border: 1px solid #06C;
+}
+#frm1 table tr td #right {
+	float: left;
+	width: 84%;
+	border: 0px solid #06C;
+	margin-left:5px;
+}
+#them {
+	font-family: tahoma;
+	font-size: 12px;
+}
+#them tr td {
+	padding: 5px;
+}

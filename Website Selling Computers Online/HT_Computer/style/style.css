@@ -1,0 +1,153 @@
+@charset "utf-8";
+/* CSS Document */
+
+#main {
+	
+}
+#main #content {
+	
+	margin:0 auto;
+	width: 1006px;
+	
+	
+}
+#main #content #header {
+
+	height: 110px;
+	width: 1000px;
+}
+#main #content #header #banner {
+
+	width: 1000px;
+	float:left;
+}
+#main #content #bottom {
+
+	float: left;
+	width: 1000px;
+	max-height:2000px;
+	margin-top:5px;
+}
+#main #content #bottom #center {
+	float: left;
+	width: 585px;
+	text-align:left;	
+}
+#main #content #bottom #menu_right {
+	float: left;
+	width: 200px;
+	max-height:2000px;
+	
+}
+/*#main #content #footer {
+
+	height: 100px;
+	width: 1000px;
+	float:left;
+	margin-top:5px;
+
+}*/
+#main #content #bottom #menu_left #nav {
+	width:200px; 
+	background-image:url(../images/index/nav.jpg); 
+	background-repeat:no-repeat;  	    
+	margin-bottom:5px;
+	padding:5px;
+	
+}
+
+
+
+#main #content #bottom #menu_left {
+	float: left;
+	width: 200px;
+
+	margin-right:5px;
+	
+	
+}#main #content #bottom #menu_left #nav #txt_nav {
+	margin-left:10px;
+	font-family:tahoma;
+}
+#product {
+}
+#main #content #header #flash {
+	height: 200px;
+	width: 1000px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	float:left;
+}
+#main #content #footer {
+	float:left;
+	margin-top:5px;
+	background-color:#06F;
+	background-repeat: no-repeat;
+	padding: 15px;
+	
+	width: 1000px;
+	margin-bottom:5px;
+	text-align:center;
+	font-family:tahoma;
+	font-size:12px;
+	-moz-border-radius-bottomleft: 10px;
+	-webkit-border-bottom-left-radius: 10px;
+	-moz-border-radius-bottomright:10px; 
+	-webkit-border-bottom-right-radius:10px;
+}
+#main #content #bottom #menu_right #nav_right {
+	width:200px; 
+	background-image:url(../images/index/nav2.jpg); 
+	background-repeat:no-repeat;  	    
+	margin-bottom:5px;
+	padding:5px;
+	float: left;
+	
+	}
+#main #content #bottom #menu_right #nav_right #txt_nav_right {
+	margin-left:10px;
+	font-family:tahoma;
+}
+
+#main #content #header #menu_top {
+	background-image:url(../images/index/topmenu_bg.jpg);
+	background-repeat: no-repeat;
+	height: 28px;
+	width: 990px;
+	float:left;
+	padding:5px;
+	font-size:14px;
+	height:22px;
+	margin-bottom:5px;
+	
+}
+#main #content #header #menu_top a {
+	text-decoration:none;
+	color:#FFF;
+	font-weight:bold;
+	padding:2px;
+	
+	
+}
+#main #content #header #menu_top a:hover {
+	text-decoration:none;
+	color:#F00;
+	font-weight:bold;
+	
+}
+
+
+#main #content #header #menu_top #menu {
+	font-family:tahoma;
+	margin-left:15px;
+	margin-bottom:5px;
+}
+#main #content #bottom #center #xemthem span {
+	float: right;
+	margin-right: 5px;
+}
+
+#main #content #header #menu_top #search {
+	float: left;
+	width: 200px;
+}
